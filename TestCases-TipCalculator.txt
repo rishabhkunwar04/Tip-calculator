@@ -1,0 +1,21 @@
+//TEST CASES FOR THE TIP CALCULATOR
+
+
+1. Verify that all the text input is readable.
+
+2.verify the accuracy of tip calculation for bill amount of decimal number.
+
+3.verify the accuracy of calculator for a large amount of Bill.
+
+4.check that the tip calculated per person is accurate.
+
+5.verify the accuracy of total calculated amount.
+
+6.check that it works fine for the large no of people.
+
+7.verify the compatibility of application on other browsers.
+
+8.handle the case of divison by 0,possible in the case when no of people is 0.
+
+9.check the compatibility of application on cross-platform.
+
